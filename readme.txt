@@ -1,1 +1,1 @@
-Sample Project
+It is first java project.
